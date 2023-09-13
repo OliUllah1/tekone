@@ -6,6 +6,9 @@ export default {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      'koho': ['KoHo', 'sans-serif'],
+    },
   },
   plugins: [],
 }
